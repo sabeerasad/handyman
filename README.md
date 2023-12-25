@@ -6,7 +6,7 @@ It's basically Uber but instead of a car you call a plumber, or carpenter, or el
 
 ## Goals
 ### Macro
-As a service, provide employment to skilled labour on a digitized and thus wider scale; easy the access to such labour for the consumer end (speaking from Karachi perspective)
+As a service, provide employment to skilled labour on a digitized and thus wider scale; ease the access to such labour for the consumer end (speaking from Karachi perspective)
 ### Micro
 Get good at app development and coding in general through a portfolio project with actual impact (hopefully)
 
