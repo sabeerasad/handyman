@@ -19,5 +19,6 @@ Get good at app development and coding in general through a portfolio project wi
 6. Establishing contact
 7. Rating system
 8. Time calculation
+9. Account types and authorisation
 
 *Whoever sees this, please make Du'a that I complete this project and I am kept sincere in my intention and that it achieves its intended purpose of being a source of benefit for all those who use it*
